@@ -1,0 +1,2 @@
+public class ParkingSlotServiceTest {
+}
